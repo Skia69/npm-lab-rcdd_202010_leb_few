@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "test": "echo 'Hello World!'"
+    "test": "echo 'Hello World!'"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
